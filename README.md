@@ -1,3 +1,3 @@
-# chessatccresponsi
-Responsi Praktikum Teknologi Cloud Computing semester Genap 2018
+# YesandrianRopi
+Responsi Praktikum Teknologi Cloud Computing
 #responsi-ptcc
